@@ -1,0 +1,25 @@
+.register {
+    text-align: center;
+}
+
+.register input {
+    font-size: 1.15rem;
+    margin: .5rem;
+    padding: .75rem;
+    border-radius: 2px;
+    border: none;
+    box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+
+.register button {
+    font-size: 1.15rem;
+    width: 15.75rem;
+    margin: .5rem;
+    padding: .75rem;
+    border-radius: 2px;
+    border: none;
+    box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+    color: white;
+    background-color: rgb(179, 11, 11);
+    cursor: pointer;
+}
